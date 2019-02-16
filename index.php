@@ -4,7 +4,7 @@
 <hr/>
 
 <div class="card" style="width: 18rem;">
-  <img src="http://puntoequis.com.ar/wp-content/uploads/2016/06/logos_pgm-960x640.jpg" class="card-img-top" alt="Java">
+  <img src="http://noticias.universia.es/net/images/ciencia-tecnologia/l/le/len/lenguajes-de-programacion.jpg" class="card-img-top" alt="Java">
   <div class="card-body">
     <h5 class="card-title">Lenguajes de programación</h5>
     <p class="card-text">Un lenguaje de programación es un lenguaje formal que especifica una serie de instrucciones para que una computadora produzca diversas...</p>
