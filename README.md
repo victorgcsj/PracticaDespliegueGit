@@ -5,7 +5,7 @@ En esta pagina hablo del lenguaje de PHP y el lenguaje de JavaScript.
 
 ## Diseño de la Web
 
-[Diseño de la pagina en ordenador y smarphone.](https://balsamiq.cloud/slwiz3a/p58ctfc/rFD01)
+[Diseño de la pagina en ordenador y smarphone.](https://balsamiq.cloud/slwiz3a/p58ctfc/r2278)
 
 
 ## Mapa de Navegación
