@@ -17,7 +17,7 @@
   <div class="card-body">
     <h5 class="card-title">Php</h5>
     <p class="card-text">PHP significa preprocesador de hipertexto. PHP es un lenguaje de scripts del lado del servidor de código abierto muy popular y ampliamente utilizado para...</p>
-    <a href="php.php" class="btn btn-primary">Más de Php</a>
+    <a href="php.php?accion=php" class="btn btn-primary">Más de Php</a>
   </div>
 </div>
 
@@ -26,7 +26,7 @@
   <div class="card-body">
     <h5 class="card-title">JavaScript</h5>
     <p class="card-text">JavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como...</p>
-    <a href="javascript.php" class="btn btn-primary">Más de JavaScript</a>
+    <a href="javascript.php?accion=javascript" class="btn btn-primary">Más de JavaScript</a>
   </div>
 </div>
 

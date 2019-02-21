@@ -88,5 +88,6 @@
     <li>Debido a su flexibilidad ha tenido una gran acogida como lenguaje base para las aplicaciones WEB de manejo de contenido, y es su uso principal.</li>
   </ul>
 </p>
-
-<?php include 'pie.inc'; ?> 
+<?php
+  include 'comment/comentarios.php';
+  include 'pie.inc'; ?> 
