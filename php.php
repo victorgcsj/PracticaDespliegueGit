@@ -1,13 +1,12 @@
 <?php include 'cabecera.inc'; ?>
 
-<h1>Php</h1>
-<hr/>
+<h3 class="letras luz">PHP</h3>
 
 <p class="text-justify">
   Fue originalmente diseñado en Perl, con base en la escritura de un grupo de CGI binarios escritos en el lenguaje C por el programador danés-canadiense Rasmus 
   Lerdorf en el año 1994 para mostrar su currículum vítae y guardar ciertos datos, como la cantidad de tráfico que su página web recibía. El 8 de junio de 1995 
   fue publicado "Personal Home Page Tools" después de que Lerdorf lo combinara con su propio Form Interpreter para crear PHP/FI.<br><br>
-
+  <img src="https://www.tutorialrepublic.com/lib/images/php-illustration.png" class="rounded float-right" alt="fotod">
   Dos programadores israelíes del Technion, Zeev Suraski y Andi Gutmans, reescribieron el analizador sintáctico (parser, en inglés) en 1997 y crearon la base 
   del PHP3, y cambiaron el nombre del lenguaje por PHP: Hypertext Preprocessor.2​ Inmediatamente comenzaron experimentaciones públicas de PHP3, y se publicó 
   oficialmente en junio de 1998. Para 1999, Suraski y Gutmans reescribieron el código de PHP, y produjeron lo que hoy se conoce como motor Zend. También fundaron 
@@ -20,24 +19,37 @@
   El 13 de julio del 2004, se lanzó PHP 5, utilizando el motor Zend Engine 2.0 (o Zend Engine 2).<br><br> 
 </p>
 
-<img src="https://www.tutorialrepublic.com/lib/images/php-illustration.png" class="img-fluid" alt="Responsive image" width="100%">
+<h3 class="letras luz">¿Más de PHP?</h3>
 
-<hr/>
-<h1>¿Qué es?</h1>
-<hr/>
-
-
-<div class="embed-responsive embed-responsive-16by9">
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">¿Qué es?</th>
+      <th scope="col">Curso</th>
+      <th scope="col">¿Bueno o malo?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ykGRYEX0n60" 
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; 
     picture-in-picture" allowfullscreen>
   </iframe>
-</div>
+</div></td>
+      <td><div class="embed-responsive embed-responsive-16by9">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/UAW7tGAgew4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+      <td><div class="embed-responsive embed-responsive-16by9">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/9QkqFgbm27w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+    </tr>
+  </tbody>
+</table>
 
 
-<hr/>
-<h1>Características de Php</h1>
-<hr/>
+<h3 class="letras luz">Características de Php</h3>
+
 
 <p class="text-justify">
   <ul>
@@ -88,6 +100,5 @@
     <li>Debido a su flexibilidad ha tenido una gran acogida como lenguaje base para las aplicaciones WEB de manejo de contenido, y es su uso principal.</li>
   </ul>
 </p>
-<?php
-  include 'comment/comentarios.php';
-  include 'pie.inc'; ?> 
+
+<?php include 'pie.inc'; ?> 
