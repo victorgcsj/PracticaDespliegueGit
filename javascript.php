@@ -1,7 +1,6 @@
 <?php include 'cabecera.inc'; ?>
 
-<h1>JavaScript</h1>
-<hr/>
+<h3 class="letras luz">JavaScript</h3>
 
 <p class="text-justify">
 JavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como orientado a objetos,3​ basado en 
@@ -9,6 +8,7 @@ prototipos, imperativo, débilmente tipado y dinámico.<br/><br/>
 Se utiliza principalmente en su forma del lado del cliente (client-side), implementado como parte de un navegador web permitiendo mejoras en la interfaz de usuario y 
 páginas web dinámicas4​ aunque existe una forma de JavaScript del lado del servidor (Server-side JavaScript o SSJS). Su uso en aplicaciones externas a la web, por ejemplo
 en documentos PDF, aplicaciones de escritorio (mayoritariamente widgets) es también significativo.<br/><br/>
+<img src="https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/javascript.png?1512678119" class="rounded float-right" alt="javas">
 Desde el 2012, todos los navegadores modernos soportan completamente ECMAScript 5.1, una versión de javascript. Los navegadores más antiguos soportan por lo menos ECMAScript
 3. La sexta edición se liberó en julio del 2015.5​<br/><br/>
 JavaScript se diseñó con una sintaxis similar a C, aunque adopta nombres y convenciones del lenguaje de programación Java. Sin embargo, Java y JavaScript tienen 
@@ -20,22 +20,38 @@ Actualmente es ampliamente utilizado para enviar y recibir información del serv
 agente de usuario al mismo tiempo que las sentencias van descargándose junto con el código HTML.
 </p>
 
-<img src="https://www.tutorialrepublic.com/lib/images/javascript-illustration.png" class="img-fluid" alt="Responsive image" width="100%">
 
-<hr/>
-<h1>¿Qué es?</h1>
-<hr/>
+<h3 class="letras luz">¿Más de JavaScript?</h3>
 
-<div class="embed-responsive embed-responsive-16by9">
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col">¿Qué es?</th>
+      <th scope="col">Curso</th>
+      <th scope="col">¿Bueno o malo?</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><div class="embed-responsive embed-responsive-16by9">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/riZbwRFMFuw" 
     frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; 
     picture-in-picture" allowfullscreen>
   </iframe>
-</div>
+</div></td>
+      <td><div class="embed-responsive embed-responsive-16by9">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/xnWtGNiG2lg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+      <td><div class="embed-responsive embed-responsive-16by9">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/xUDMGfaned4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></td>
+    </tr>
+  </tbody>
+</table>
 
-<hr/>
-<h1>Características de JavaScript</h1>
-<hr/>
+
+<h3 class="letras luz">Características de JavaScript</h3>
+
 
 <p class="text-justify">
 Las siguientes características son comunes a todas las implementaciones que se ajustan al estándar ECMAScript, 
@@ -54,7 +70,4 @@ por la cadena de la herencia prototípica) pueden ser enumeradas a por medio de 
 predefinidos como son Function y Date.
 </p>
 
-<?php
-  include 'comment/comentarios.php';
-  include 'pie.inc'; 
-?> 
+<?php include 'pie.inc'; ?> 
