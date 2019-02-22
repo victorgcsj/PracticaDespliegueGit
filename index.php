@@ -1,33 +1,30 @@
 <?php include 'cabecera.inc'; ?>
 
-<h1 >Lenguajes de programación</h1>
-<hr/>
-
-<div class="card" style="width: 18rem;">
-  <img src="http://noticias.universia.es/net/images/ciencia-tecnologia/l/le/len/lenguajes-de-programacion.jpg" class="card-img-top" alt="Java">
-  <div class="card-body">
-    <h5 class="card-title">Lenguajes de programación</h5>
-    <p class="card-text">Un lenguaje de programación es un lenguaje formal que especifica una serie de instrucciones para que una computadora produzca diversas...</p>
-    <a href="https://es.wikipedia.org/wiki/Lenguaje_de_programaci%C3%B3n" class="btn btn-primary" target="_blank">Más sobre lenguajes</a>
+<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2018/04/CGWd8yk-796x398.jpg" class="d-block w-100" alt="jotaeseuno">
+    </div>
+    <div class="carousel-item">
+      <img src="https://www.anerbarrena.com/wp-content/uploads/2016/05/logo-programacion.jpg" class="d-block w-100" alt="phpuno">
+    </div>
+    <div class="carousel-item">
+      <img src="http://www.purelogics.net/blog/wp-content/uploads/2019/01/javascript.png" class="d-block w-100" alt="jotaesedos">
+    </div>
+    <div class="carousel-item">
+      <img src="https://blog.megacursos.com/wp-content/uploads/2018/11/php-development.jpg" class="d-block w-100" alt="phpdos">
+    </div>
   </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
 </div>
-
-<div class="card" style="width: 18rem;">
-  <img src="http://www.forcode.es/wp-content/uploads/2012/12/php_elephant.png" class="card-img-top" alt="Php">
-  <div class="card-body">
-    <h5 class="card-title">Php</h5>
-    <p class="card-text">PHP significa preprocesador de hipertexto. PHP es un lenguaje de scripts del lado del servidor de código abierto muy popular y ampliamente utilizado para...</p>
-    <a href="php.php?accion=php" class="btn btn-primary">Más de Php</a>
-  </div>
-</div>
-
-<div class="card" style="width: 18rem;">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdY-Uv_d8AgzDR0jfjVq8ZiMUnkABJUs9uwphcIdP_HEHzXwR_" class="card-img-top" alt="JavaScript">
-  <div class="card-body">
-    <h5 class="card-title">JavaScript</h5>
-    <p class="card-text">JavaScript (abreviado comúnmente JS) es un lenguaje de programación interpretado, dialecto del estándar ECMAScript. Se define como...</p>
-    <a href="javascript.php?accion=javascript" class="btn btn-primary">Más de JavaScript</a>
-  </div>
-</div>
+<br/>
+  <h1 class="centrar luz">LENGUAJES</h1>
 
 <?php include 'pie.inc'; ?> 
