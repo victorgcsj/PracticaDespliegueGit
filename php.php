@@ -101,4 +101,7 @@
   </ul>
 </p>
 
-<?php include 'pie.inc'; ?> 
+<?php 
+    include 'comment/comentarios.php';
+    include 'pie.inc'; 
+?> 
