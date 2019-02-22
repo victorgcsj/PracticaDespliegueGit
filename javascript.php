@@ -70,4 +70,7 @@ por la cadena de la herencia prototípica) pueden ser enumeradas a por medio de 
 predefinidos como son Function y Date.
 </p>
 
-<?php include 'pie.inc'; ?> 
+<?
+    include 'comment/comentarios.php';
+    php include 'pie.inc'; 
+?> 
